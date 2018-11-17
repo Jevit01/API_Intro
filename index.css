@@ -1,0 +1,29 @@
+body{
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  background: #536976;
+  background: -webkit-linear-gradient(to right, #292E49, #536976);
+  background: linear-gradient(to right, #292E49, #536976);
+  padding-top: 15%;
+}
+
+p{
+  color: white;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+h1{
+  color: white;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+button{
+  font-size: 25px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #536976;
+  border-width: thick;
+  font-family: 'Pacifico', cursive;
+}
